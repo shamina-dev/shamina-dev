@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me
-Hi — I'm **Shamina Palansooriya**, an HND Software Engineering student at **NIBM Kandy, Sri Lanka**, and currently interning at **N-meg Technologies**. I build web apps, work with sensor data, and enjoy turning data into usable dashboards.
+Hi — I'm **Shamina Palansooriya**, an HND Software Engineering student at **NIBM Kandy, Sri Lanka**, and currently intern at **N-meg Technologies**. I build web apps and enjoy turning data into usable dashboards.
 
 ---
 
@@ -87,7 +87,7 @@ Hi — I'm **Shamina Palansooriya**, an HND Software Engineering student at **NI
 ## 🚀 Current Projects (brief)
 - **Real-Time Air Monitoring & Prediction System** — live sensor ingestion + ML predictions with dashboards (Python, FastAPI, Angular).  
 - **Internship @ N-meg Technologies** — building and optimizing Angular features, tests and CI improvements.  
-- **Personal Portfolio** — responsive portfolio (Angular/React) with automated deploys (GitHub Actions).
+- **Personal Portfolio** — responsive portfolio (Angular) with automated deploys (GitHub Actions).
 
 
 ---
@@ -117,8 +117,8 @@ Open issues or send PRs to any of my repos. Link PRs for internship highlights a
 ---
 
 ## ✉️ Contact
-- **Email:** (add your email)  
-- **LinkedIn:** (add your profile link)
+- **Email:** shaminapalansooriya@gmail.com  
+- **LinkedIn:** linkedin.com/in/shamina-palansooriya
 
 ---
 
