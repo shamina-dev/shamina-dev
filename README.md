@@ -11,14 +11,6 @@ Hi — I'm **Shamina Palansooriya**, an HND Software Engineering student at **NI
 
 ---
 
-## ✨ Quick Stats
-<div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=shamina-dev&count_private=true&theme=swift&show_icons=true" alt="GitHub Stats"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamina-dev&layout=compact&card_width=340&langs_count=6" alt="Top Languages"/>
-</div>
-
----
-
 ## 🧰 Tech & Tools
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -89,7 +81,6 @@ Hi — I'm **Shamina Palansooriya**, an HND Software Engineering student at **NI
   </a>
 </p>
 
-**Currently using:** Angular • TypeScript • Python • FastAPI • PostgreSQL • Docker • scikit-learn • pandas • GitHub Actions
 
 ---
 
@@ -98,7 +89,27 @@ Hi — I'm **Shamina Palansooriya**, an HND Software Engineering student at **NI
 - **Internship @ N-meg Technologies** — building and optimizing Angular features, tests and CI improvements.  
 - **Personal Portfolio** — responsive portfolio (Angular/React) with automated deploys (GitHub Actions).
 
+
 ---
+# 📊 Stats
+
+<div align="center">
+  <br/>
+  <!-- Typing header (your existing one is kept separately above — remove if duplicated) -->
+  <!-- GitHub streak / summary / top-langs / trophy -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamina-dev&theme=dracula" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamina-dev&theme=dracula" alt="Profile Summary" />
+  <br/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamina-dev&layout=compact&card_width=300&langs_count=4" alt="Top Languages" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shamina-dev&theme=buefy&row=1&column=6" alt="Trophy" />
+  <br/>
+  <!-- Compact main stats -->
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=shamina-dev&count_private=true&show_icons=true&theme=swift" alt="GitHub Stats"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamina-dev&layout=compact&card_width=340&langs_count=6" alt="Top Languages"/>
+</div>
+
 
 ## 🤝 Collaborate / Contribute
 Open issues or send PRs to any of my repos. Link PRs for internship highlights and I’ll showcase them.
@@ -111,7 +122,7 @@ Open issues or send PRs to any of my repos. Link PRs for internship highlights a
 
 ---
 
-## 👥 Visitor Count
+##  Visitor Count
 ![Visit Count](https://count.getloli.com/@shamina-dev?name=shamina-dev&theme=booru-twifanartsfw&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ---
