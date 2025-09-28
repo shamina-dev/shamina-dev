@@ -118,7 +118,7 @@ Open issues or send PRs to any of my repos. Link PRs for internship highlights a
 
 ## ✉️ Contact
 - **Email:** shaminapalansooriya@gmail.com  
-- **LinkedIn:** linkedin.com/in/shamina-palansooriya
+- **LinkedIn:** [linkedin.com/in/shamina-palansooriya](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BPmCrYHznQQaT2EDw5P1eAw%3D%3D)
 
 ---
 
@@ -127,4 +127,3 @@ Open issues or send PRs to any of my repos. Link PRs for internship highlights a
 
 ---
 
-*License: CC0 (change if desired)*
